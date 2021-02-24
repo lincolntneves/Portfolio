@@ -3,7 +3,6 @@ My Data Science Portfolio<br>
  <a href="https://www.linkedin.com/in/lincolntneves/?locale=en_US">
     <img src="https://github.com/lincolntneves/ColoredBadges/blob/master/svg/social/linkedin.svg" style="vertical-align:top margin:6px 4px">
   </a>  
-  
  <a href="https://twitter.com/lincoln_neves">
     <img src="https://github.com/lincolntneves/ColoredBadges/blob/master/svg/social/twitter.svg"  style="vertical-align:top margin:6px 4px">
   </a>  
