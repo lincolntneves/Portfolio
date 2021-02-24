@@ -25,10 +25,13 @@ My Data Science Portfolio<br>
 </p>
 
 ## About: 
+
 Statistician and Marketing Specialist, I work with exploratory data analysis, cleaning and database manipulation in SAS / SQL / Python / R, Dashboards in MS Excel / Power BI and reports and executive presentations.
 
-## [Project 01: Using Classification Models to Identify Drug Consumption](https://bit.ly/2ZJorHl)
-<a href=""></a>
+## Projects:
+
+### [Using Classification Models to Identify Drug Consumption](https://bit.ly/2ZJorHl)
+<a href=""
 It is a machine learning project and have used a dataset about drug consumption from [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). The original study and dataset can be accessed with the link [here](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29).<br>
 In this project I have worked with..
 
