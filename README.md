@@ -31,8 +31,7 @@ Statistician and Marketing Specialist, I work with exploratory data analysis, cl
 ## Projects:
 
 ### [Using Classification Models to Identify Drug Consumption](https://bit.ly/2ZJorHl)
-<a href=""
-It is a machine learning project and have used a dataset about drug consumption from [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). The original study and dataset can be accessed with the link [here](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29).<br>
-In this project I have worked with..
+It is a machine learning project and have used a dataset about drug consumption from [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). The original study and dataset can be accessed with the link [here](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29).<br><br>
+On this project I have worked with Python, using Pandas, Numpy, Sklearn, Matplotlib and Seaborn. I have used SVM, Naive Bayes and Decision Tree to classificate the drug user throuth the scores, age, gender, ethinicity and education. In the end I heve compared the three models results.
 
 
