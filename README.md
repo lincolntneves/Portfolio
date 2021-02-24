@@ -1,8 +1,11 @@
 # Neves, Lincoln Thiago
 My Data Science Portfolio<br>
-![author](https://img.shields.io/badge/author-carlosfab-red.svg)<br>
  <a href="https://www.linkedin.com/in/lincolntneves/?locale=en_US">
-    <img src="https://github.com/lincolntneves/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/lincolntneves/ColoredBadges/blob/master/svg/social/linkedin.svg" style="vertical-align:top margin:6px 4px">
+  </a>  
+  
+ <a href="https://twitter.com/lincoln_neves">
+    <img src="https://github.com/lincolntneves/ColoredBadges/blob/master/svg/social/twitter.svg"  style="vertical-align:top margin:6px 4px">
   </a>  
   
   
