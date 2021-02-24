@@ -1,6 +1,9 @@
 # Neves, Lincoln Thiago
-My Data Science Portfolio
-![author](https://img.shields.io/badge/author-carlosfab-red.svg)
+My Data Science Portfolio<br>
+![author](https://img.shields.io/badge/author-carlosfab-red.svg)<br>
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 ### Contacts:
 cell: +55 21 98985-3479 <br>
