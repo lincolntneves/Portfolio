@@ -10,8 +10,11 @@ My Data Science Portfolio
 
 Statistician and Marketing Specialist, I work with exploratory data analysis, cleaning and database manipulation in SAS / SQL / Python / R, Dashboards in MS Excel / Power BI and reports and executive presentations.
 
+
 ## My Skills:
+
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() [![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]() [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]() 
+
 
 
 ## Projects:
