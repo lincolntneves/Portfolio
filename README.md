@@ -12,9 +12,7 @@ Statistician and Marketing Specialist, I work with exploratory data analysis, cl
 
 
 ## My Skills:
-
-[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() [![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]() [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]() 
-
+[![](https://img.shields.io/badge/Language-Python-yellow)](https://www.python.org/) [![](https://img.shields.io/badge/Language-R-informational)](https://www.r-project.org/) [![](https://img.shields.io/badge/Database-SQL-A0A0A0)]() [![](https://img.shields.io/badge/Framework-JupyterNotebook-CC6600)](https://jupyter.org/) [![](https://img.shields.io/badge/Software-SAS-blue)](https://www.sas.com/pt_br/home.html) [![](https://img.shields.io/badge/Software-SPSS-red)](https://www.ibm.com/br-pt/products/spss-statistics) [![](https://img.shields.io/badge/Framework-Spyder-CC0000)](https://www.spyder-ide.org/) [![](https://img.shields.io/badge/Platform-Anaconda-00CC00)](https://www.anaconda.com/) [![](https://img.shields.io/badge/Framework-RStudio-99CCFF)](https://www.rstudio.com/) [![](https://img.shields.io/badge/Software-Excel-66CC00)]() [![](https://img.shields.io/badge/Platform-PowerBI-CCCC00)](https://powerbi.microsoft.com/pt-br/) [![](https://img.shields.io/badge/Platform-TIBCOSpotfire-blue)](https://www.tibco.com/pt-br/products/tibco-spotfire)
 
 
 ## Projects:
